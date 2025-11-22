@@ -7,10 +7,8 @@ ARCH=$(uname -m)
 echo "Installing package dependencies..."
 echo "---------------------------------------------------------------"
 pacman -Syu --noconfirm \
-            xorg-server-xvfb \
-            curl \
-            wget \
-            extension-manager
+             dbus \
+             extension-manager
 
 echo "Installing debloated packages..."
 echo "---------------------------------------------------------------"
