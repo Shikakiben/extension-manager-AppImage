@@ -1,4 +1,4 @@
-# Unofficial Extention-manager-AppImage 🐧
+# Unofficial Extension-Manager-AppImage 🐧
 
 [![GitHub Downloads](https://img.shields.io/github/downloads/Shikakiben/Extension-Manager-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/Shikakiben/Extension-Manager-AppImage/releases/latest)
 [![CI Build Status](https://github.com//Shikakiben/Extension-Manager-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/Shikakiben/Extension-Manager-AppImage/releases/latest)
